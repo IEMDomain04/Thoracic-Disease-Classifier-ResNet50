@@ -23,4 +23,4 @@ pip install -r requirements.txt
 ```
 
 **If ure using linux or mac**
-1. Idk, check what you need by yourself here: https://www.tensorflow.org/install/source#tested_build_configurations
+Check it here: https://www.tensorflow.org/install/source#tested_build_configurations
